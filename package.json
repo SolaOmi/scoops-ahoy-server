@@ -8,6 +8,9 @@
     "start": "node ./bin/start",
     "test": "mocha --recursive"
   },
+  "engine": {
+    "node": "12.6.0"
+  },
   "dependencies": {
     "cookie-parser": "^1.4.4",
     "debug": "^4.1.1",
